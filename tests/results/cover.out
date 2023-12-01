@@ -1,0 +1,24 @@
+mode: set
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:13.59,17.27 4 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:25.2,25.12 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:17.27,18.15 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:23.3,23.69 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:18.15,21.4 2 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:30.50,37.23 2 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:42.2,42.12 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:37.23,38.54 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/validator/validate.go:38.54,40.4 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:21.83,25.19 2 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:28.2,29.16 2 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:36.2,40.17 3 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:48.2,48.23 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:55.2,57.32 3 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:25.19,27.3 1 0
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:29.16,34.3 4 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:40.17,46.3 5 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:48.23,54.3 5 0
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:60.54,63.2 2 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:66.57,67.35 1 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:70.2,74.134 4 1
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:67.35,69.3 1 0
+lmzsoftware.com/lzuccarelli/golang-simple-echoservice/pkg/handlers/handler.go:78.108,82.2 3 1

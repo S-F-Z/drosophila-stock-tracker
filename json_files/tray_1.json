@@ -1,0 +1,28 @@
+{
+ "Vials": [
+  {
+   "GenomeLabel": "w; {kr/CyO}; {ubiGal80TS/TM3,Ser}",
+   "id": "V001",
+   "Color": "Yellow",
+   "Description": "Temperature-sensitive Gal4 repressor ubiGal80 on 3rd Chromosome to be crossed with TrhnG4 construct",
+   "LastTaskDate": "2023-11-03",
+   "NextTaskData": "2023-11-07",
+   "Temperature": 23,
+   "Task": "Expand on R2 Food",
+   "State": "Cross",
+   "Status": "To be processed"
+  },
+  {
+   "GenomeLabel": "w; {if/CyO}; {MKRS/TM6,Gal80TS}",
+   "id": "V002",
+   "Color": "Red",
+   "Description": "Balancer stock to be used as a cross for TrhnG4 stock",
+   "LastTaskDate": "2023-11-03",
+   "NextTaskData": "2023-11-07",
+   "Temperature": 23,
+   "Task": "Expand on R2 Food and select males for crossing",
+   "State": "Balancer",
+   "Status": "To be processed"
+  }
+ ]
+}
